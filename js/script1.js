@@ -25,7 +25,7 @@ form.addEventListener('submit', (e)=>{
         console.log("Submitted");
     })
 
-    alert('Form submitted successfully');
+    alert('Form submitted successfully!');
 
     name.value = "";
     email.value="";
